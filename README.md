@@ -2,8 +2,8 @@
 How to Bruteforce a Network Services such as SSH, HTTP, FTP, Telnet, IMAP, SMB
 
 
-<a href="/Password_.txt"download>PASSWORD.TXT FILE </a>
-
+PASSWORD.TXT file can be found in Telegram Channel with link 👇👇
+https://t.me/VPNConFiles/1316
 
 As a Novice, I cannot promote or suggest any illegal or unethical activities that may harm any individual or organization. It is important to use technology, tools, and information only for ethical and lawful purposes, in compliance with local and international laws and regulations. It is recommended to use tools like Bruteforce only for authorized and legitimate purposes, such as testing the security of your own systems or with written permission from the systems owners. Using such tools for any illegal or unethical purposes without proper authorization can result in severe legal penalties and consequences.
 
