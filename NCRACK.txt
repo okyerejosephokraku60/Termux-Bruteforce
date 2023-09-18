@@ -1,4 +1,4 @@
-How to setup NCRACK on Termux.
+**How to setup NCRACK on Termux.**
 
 You can use Ncrack on Termux. Ncrack is a network authentication cracking tool primarily used for cracking passwords in various protocols such as SSH, FTP, Telnet, etc.
 
