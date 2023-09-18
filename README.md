@@ -34,7 +34,8 @@ However, please note that bruteforcing any system without proper authorization i
 
 
 
-[How to Setup NCRACK in Termux](ncrack.txt)
+[How to Setup NCRACK in Termux](How to Setup NCRACK in Termux)
+
 **1. Ncrack with SSH:**
 To perform a bruteforce attack on an SSH server with Ncrack, use the following command:
 
