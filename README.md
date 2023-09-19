@@ -112,6 +112,8 @@ Note that these commands are for authorized testing purposes only. Using them fo
 
 **Here are some examples of using Medusa on Termux:**
 
+**[How to Setup MEDUSA in Termux](https://github.com/okyerejosephokraku60/Medusa)**
+
 **1. Medusa with SSH:**
 To perform a brute-force attack on an SSH server with Medusa, use the following command:
 
