@@ -34,7 +34,7 @@ However, please note that bruteforcing any system without proper authorization i
 
 
 
-[How to Setup NCRACK in Termux](https://github.com/okyerejosephokraku60/Ncrack)
+**[How to Setup NCRACK in Termux](https://github.com/okyerejosephokraku60/Ncrack)**
 
 **1. Ncrack with SSH:**
 To perform a bruteforce attack on an SSH server with Ncrack, use the following command:
@@ -71,6 +71,8 @@ Note that these commands are for authorized testing purposes only. Using them fo
 
 
 **Here are some examples of using Hydra on Termux:**
+
+**[How to Setup HYDRA in Termux](https://github.com/okyerejosephokraku60/Hydra)**
 
 **1. Hydra with SSH:**
 To perform a bruteforce attack on an SSH server with Hydra, use the following command:
