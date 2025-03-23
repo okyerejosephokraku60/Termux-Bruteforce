@@ -3,7 +3,7 @@
 
 
 PASSWORD.TXT file can be found in Telegram Channel with link 👇👇
-https://t.me/VPNConFiles/1330
+https://t.me/okrakucapital/1330
 
 Or Download directly from here
 [Download](Password_.txt)
